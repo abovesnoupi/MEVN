@@ -9,7 +9,7 @@
 npm install
 
 # Start Express Server: http://localhost:5000
-npm start
+npm run dev
 
 # Start Vue DevServer: http://localhost:8080
 cd client
