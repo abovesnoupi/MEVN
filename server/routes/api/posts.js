@@ -38,7 +38,7 @@ router.delete('/:id', async (req, res) => {
 
 async function loadPostsCollection() {
     const client = await mongodb.MongoClient.connect
-        ('mongodb+srv://admin:adminadmin@vue-express-dbvmv.mongodb.net/test?retryWrites=true', {
+        ('mongodb+srv://admin:<password>@vue-express-dbvmv.mongodb.net/test?retryWrites=true', {
             useNewUrlParser: true
         });
 
