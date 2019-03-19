@@ -1,6 +1,6 @@
 # MEVN
 
-> Example of a fullstack app using Vue.js, Express and MongoDB. You will need to edit the MongoDB connection string in server/routes/api/posts.js to your own.
+> Example of a fullstack app using Vue.js, Express and MongoDB. Need to edit the MongoDB connection string in server/routes/api/posts.js to your own.
 
 ## Quick Start
 
